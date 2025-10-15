@@ -1,2 +1,3 @@
 # super_trunfo.c
-jogo para trabalho de faculdade
+carta nivel novato:logica do jogo
+
